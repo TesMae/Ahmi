@@ -202,6 +202,11 @@
     height: 35px;
 }
 
+.facebook-mail-icon:hover{
+    border: 1px solid #888;
+    background-color: #ddd;
+  }
+
 /* Utility */
 .tombol {
     border-radius: 40px;
